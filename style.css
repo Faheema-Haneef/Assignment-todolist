@@ -1,0 +1,65 @@
+.heading{
+    width: 50%;
+    margin: 30px auto;
+    text-align: center;
+    color: bisque;
+    background-color: cadetblue;
+    border-radius: 20px;
+    border: 2px solid;
+
+}
+
+.form{
+    width: 50%;
+    margin: 30px auto;
+    border-radius: 5px;
+    padding: 10px;
+    background:cadetblue;
+    border: 1px solid  bisque; 
+}
+
+.input-field{
+
+    width: 73%;
+    padding:10px;
+    border: 2px solid  bisque; 
+
+}
+.sbmt-btn{
+    color: bisque;
+    background-color: cadetblue;
+    border: 2px solid  bisque; 
+    border-radius: 5px;
+    padding: 5px 20px;
+    margin-left: 2px ;
+
+}
+table{
+    width: 50%;
+    border-collapse:collapse ;
+    margin: 30px auto;
+}
+tr{
+    border-bottom: 1px solid ;
+}
+th{
+    font-size: 19px;
+
+}
+th,td{
+    border: none;
+    padding: 2px;
+}
+tr:hover{
+    background: bisque;
+}
+.task{
+    text-align: center;
+}
+.action > a{
+    text-align: center;
+    padding:1px 6px;
+    text-decoration: none;
+    color: black ;
+   
+}
